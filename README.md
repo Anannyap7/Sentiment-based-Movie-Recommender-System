@@ -1,2 +1,2 @@
 # Movie-Recommendation-using-EEG
-Movie Recommendation System using EEG based brain signals
+In this project, we try to recommend a movie to the user based on mood that is predicted using Artificial Neural Networks on the EEG data collected from different users
